@@ -1,7 +1,7 @@
 
 # Nextflow exercise 
 
-This nextflow script performs read cleaning, genome assembly, assembly quality assessment, and bacterial genome characterization. 
+This nextflow script performs read cleaning, genome assembly, assembly quality assessment, and bacterial genome characterization of unassembled reads from a bacterial isolate. 
 
 #### Prerequisites:
 
